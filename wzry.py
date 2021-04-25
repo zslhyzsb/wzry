@@ -28,11 +28,11 @@ idlist.append(dict1)
 idlist1 = []
  
 dict2 = {
-    'serverId': '',
-    'roleId': '',
-    'userId': '',
-    'gameOpenid': '',
-    'openid': '',
+    'serverId': '4056',
+    'roleId': '1166800534',
+    'userId': '2130094171',
+    'gameOpenid': 'owanlsv78qc6NlQbeHC54bKeoFnI',
+    'openid': 'owanlsv78qc6NlQbeHC54bKeoFnI',
     'msdkToken': '',
     'appOpenid': '',
     'timestamp': '',

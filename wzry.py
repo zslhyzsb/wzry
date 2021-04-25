@@ -6,11 +6,11 @@ from random import randint
 # 处理账号参数 浏览点赞任务
 idlist = []
 dict0 = {
-    'gameOpenId': '',
-    'gameRoleId': '',
-    'gameServerId': '',
-    'token': '',
-    'userId': ''
+    'gameOpenId': 'owanlsv78qc6NlQbeHC54bKeoFnI',
+    'gameRoleId': '1166800534',
+    'gameServerId': '4056',
+    'token': '44_3T38XjbOkU3NT_CrlJByWPc5RlxLqKMVHHGbcwgO83EoMEAoSOlMjiBMpOsD1qICNSkMKRfnRFKKQhem7Tyd6bfBmqpkJE3nEMrLZYC4hpo',
+    'userId': '2130094171'
 }
  
 dict1 = {
